@@ -22,7 +22,7 @@
 
 ### Snake animation
 
-<img src="https://raw.githubusercontent.com/Kalyan190/Kalyan190/output/snake.svg" alt="Snake animation" />
+
 
 
 
