@@ -22,7 +22,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/Kalyan190/Kalyan190/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/Kalyan190/Kalyan190/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 
 
 
