@@ -22,7 +22,7 @@
 
 ### Snake animation
 
-![](https://raw.githubusercontent.com/Kalyan190/Kalyan190/main/profile-summary-card-output/buefy/0-profile-details.svg)
+![](https://raw.githubusercontent.com/Kalyan190/Kalyan190/main/profile-summary-card-output/2077/0-profile-details.svg)
 
 
 
