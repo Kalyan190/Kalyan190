@@ -36,7 +36,7 @@
 </div>
 
 #Snake animation
-<img src="https://github.com/Kalyan190/Kalyan190/blob/output/github-contribution-grid-snake.gif" alt="Snake Animation"/>
+![Snake animation](https://raw.githubusercontent.com/Kalyan190/Kalyan190/output/github-contribution-grid-snake-dark.svg)
 
 
 ![](https://raw.githubusercontent.com/Kalyan190/Kalyan190/main/profile-summary-card-output/2077/0-profile-details.svg)
