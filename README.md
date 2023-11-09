@@ -35,11 +35,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" width="52" alt="jupyter logo"  /> -->
 </div>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Kalyan190/Kalyan190/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Kalyan190/Kalyan190/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Kalyan190/Kalyan190/output/github-contribution-grid-snake.svg">
-</picture>
+#Snake animation
+<img src="https://github.com/Kalyan190/Kalyan190/blob/output/github-contribution-grid-snake.gif" alt="Snake Animation"/>
 
 
 ![](https://raw.githubusercontent.com/Kalyan190/Kalyan190/main/profile-summary-card-output/2077/0-profile-details.svg)
