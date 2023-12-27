@@ -35,7 +35,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" width="52" alt="jupyter logo"  /> -->
 </div>
 
-#Snake animation
+
 
 ![](https://raw.githubusercontent.com/Kalyan190/Kalyan190/output/github-contribution-grid-snake.svg)
 
