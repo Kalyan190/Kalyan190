@@ -37,10 +37,7 @@
 
 #Snake animation
 
-<img src="https://github.com/Kalyan190/Kalyan190/blob/output/github-contribution-grid-snake.svg"/>
-
-
-![](https://raw.githubusercontent.com/Kalyan190/Kalyan190/main/profile-summary-card-output/2077/0-profile-details.svg)
+![](https://raw.githubusercontent.com/Kalyan190/Kalyan190/output/github-contribution-grid-snake.svg)
 
 
 
