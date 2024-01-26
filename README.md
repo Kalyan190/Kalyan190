@@ -48,7 +48,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kalyan190&show_icons=true&locale=en" alt="kalyan190" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kalyan190&" alt="kalyan190" /></p>
+
 <p align = "center">
   <img align="center" alt="karna" width="400" src="https://c.tenor.com/77IymeWcaBgAAAAC/coding-programming.gif">
 </p>
